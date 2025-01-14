@@ -18,7 +18,9 @@ CSS:
 Gradient Background: Used to enhance visual appeal and create a smooth transition between colors.
 Glassmorphism (backdrop filter): Adds a modern frosted glass effect to the cards for aesthetic value.
 
-JavaScript
+JavaScript:
+
+Dynamically handles the scrolling by detecting scroll position.
 
 #Known Limitations/Trade-offs
 Scroll Reset:
